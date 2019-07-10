@@ -1,0 +1,10 @@
+﻿<Properties StartupItem="iOS/OpenSesameV3.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.2954c6ee0cfa68108e6d3dde6560a8eb22b3aa67" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.Droid PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>

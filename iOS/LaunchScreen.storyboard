@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="5">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+    </dependencies>
+    <scenes>
+        <scene sceneID="4">
+            <objects>
+                <viewController id="5" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="2"/>
+                        <viewControllerLayoutGuide type="bottom" id="3"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="6">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <color key="backgroundColor" customColorSpace="calibratedWhite" colorSpace="calibratedRGB" red="0.12549019607843137" green="0.34901960784313724" blue="0.40784313725490196" alpha="1"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" id="11" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="splash.png">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <variation key="heightClass=regular-widthClass=regular" fixedFrame="YES">
+                                    <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                </variation>
+                            </imageView>
+                        </subviews>
+                        <color key="tintColor" colorSpace="calibratedRGB" red="0" green="0" blue="0" alpha="1"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-444" y="80"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="AboutUs.png" width="96" height="96"/>
+        <image name="AboutUsHL.png" width="96" height="96"/>
+        <image name="BackButton.png" width="96" height="96"/>
+        <image name="BackButtonHL.png" width="96" height="96"/>
+        <image name="ENGAppName.png" width="600" height="144"/>
+        <image name="ENGOFF.png" width="360" height="360"/>
+        <image name="ENGON.png" width="360" height="360"/>
+        <image name="icon.png" width="72" height="72"/>
+        <image name="LoginButton.png" width="600" height="105"/>
+        <image name="RoundButton.png" width="360" height="96"/>
+        <image name="Settings.png" width="240" height="240"/>
+        <image name="SettingsHL.png" width="240" height="240"/>
+        <image name="splash.png" width="720" height="1280"/>
+        <image name="ZHSAppName.png" width="600" height="144"/>
+        <image name="ZHSOFF.png" width="360" height="360"/>
+        <image name="ZHSON.png" width="360" height="360"/>
+        <image name="ZHTAppName.png" width="600" height="144"/>
+        <image name="ZHTOFF.png" width="360" height="360"/>
+        <image name="ZHTON.png" width="360" height="360"/>
+        <image name="AdminButtonMask.png" width="576" height="269"/>
+        <image name="AdminLockButtonMask.png" width="576" height="269"/>
+        <image name="AdminUnlockButtonMask.png" width="576" height="269"/>
+        <image name="UserButtonMask.png" width="480" height="269"/>
+        <image name="ImageSwitchInnerButton.png" width="32" height="36"/>
+        <image name="ImageSwitchMask.png" width="132" height="48"/>
+        <image name="images/CBCM.png" width="720" height="720"/>
+        <image name="images/ENGAppName.png" width="384" height="96"/>
+        <image name="images/ZHSAppName.png" width="384" height="96"/>
+        <image name="images/ZHTAppName.png" width="384" height="96"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+        <simulatedOrientationMetrics key="orientation"/>
+    </simulatedMetricsContainer>
+</document>
