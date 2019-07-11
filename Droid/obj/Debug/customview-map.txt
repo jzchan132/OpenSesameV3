@@ -1,0 +1,3 @@
+item;obj/Debug/res/values/styles.xml
+resources;obj/Debug/res/values/styles.xml
+style;obj/Debug/res/values/styles.xml

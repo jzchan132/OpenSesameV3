@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="org.cbcm.opensesamev3">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="OpenSesameV3" android:largeHeap="true" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:configChanges="screenSize" android:icon="@drawable/icon" android:label="Open Sesame" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md58f5fb5531a096857332a80f01b36a4e0.MainActivity" />
+    <activity android:icon="@drawable/icon" android:label="Open Sesame" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md58f5fb5531a096857332a80f01b36a4e0.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <receiver android:enabled="true" android:name="md5e72bad741f9573ef9b4c0c87f2638d2e.BootCompletedReceiver">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+      </intent-filter>
+    </receiver>
+    <service android:name="md5e72bad741f9573ef9b4c0c87f2638d2e.OpenSesameService" />
+    <receiver android:name="md5e72bad741f9573ef9b4c0c87f2638d2e.NetworkStatusBroadcastReceiver" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="org.cbcm.opensesamev3.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.org.cbcm.opensesamev3" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

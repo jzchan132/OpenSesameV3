@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{68A368D0-235B-465B-B1CB-615DC86E5607}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenSesameV3/GridPage.cs">
+    <Files>
+      <File FileName="OpenSesameV3/OpenSesameV3.cs" Line="10" Column="42" />
+      <File FileName="OpenSesameV3/GridPage.cs" Line="45" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenSesameV3" expanded="True">
+            <Node name="OpenSesameV3" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="GridPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B43A691E-68C8-4E7D-9AA7-3306F96682A1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
