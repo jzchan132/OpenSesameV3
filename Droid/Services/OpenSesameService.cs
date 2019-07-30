@@ -395,7 +395,7 @@ namespace OpenSesameV3.Droid.Services
 				Vibrator vibrator = (Vibrator)GetSystemService(Context.VibratorService);
                 vibrator.Vibrate(VibrationEffect.CreateOneShot(duration, VibrationEffect.DefaultAmplitude));
                 //vibrator.Vibrate(duration);
-			}
+            }
 		}
 
 		private void PlayWiFiDisconnected()

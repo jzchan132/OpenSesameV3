@@ -448,7 +448,6 @@
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/bin/Debug/SQLite-net.xml
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/bin/Debug/Newtonsoft.Json.xml
-/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/build.props
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/adb.props
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/OpenSesameV3.Droid.csprojAssemblyReference.cache
@@ -717,7 +716,6 @@
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/mono/android/support/transition/Transition_TransitionListenerImplementor.java
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/android/support/v7/mediarouter/R.java
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/mono/android/support/design/widget/AppBarLayout_OnOffsetChangedListenerImplementor.java
-/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/mono/android/support/design/widget/TabLayout_OnTabSelectedListenerImplementor.java
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/mono/android/support/design/widget/SwipeDismissBehavior_OnDismissListenerImplementor.java
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/mono/android/support/design/widget/NavigationView_OnNavigationItemSelectedListenerImplementor.java
@@ -921,3 +919,8 @@
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/bin/Debug/Xamarin.Android.Arch.Core.Runtime.dll
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/linksrc/Xamarin.Android.Arch.Core.Runtime.dll
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Runtime.dll
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/src/mono/android/support/design/widget/TabLayout_OnTabSelectedListenerImplementor.java

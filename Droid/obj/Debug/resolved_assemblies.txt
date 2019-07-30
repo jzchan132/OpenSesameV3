@@ -19,6 +19,7 @@
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/System.Runtime.dll
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/System.Xml.dll
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Common.dll
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Runtime.dll
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.Common.dll
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.Runtime.dll
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
