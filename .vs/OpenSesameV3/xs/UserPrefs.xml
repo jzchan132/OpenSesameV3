@@ -2,15 +2,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Services/NetworkStatusBroadcastReceiver.cs">
     <Files>
       <File FileName="Droid/Services/OpenSesameService.cs" Line="406" Column="1" />
-      <File FileName="Droid/Services/NetworkStatusBroadcastReceiver.cs" Line="12" Column="29" />
+      <File FileName="Droid/Services/NetworkStatusBroadcastReceiver.cs" Line="12" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OpenSesameV3" expanded="True">
             <Node name="OpenSesameV3.Droid" expanded="True">
-              <Node name="Packages" expanded="True" />
-              <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True">
                 <Node name="NetworkStatusBroadcastReceiver.cs" selected="True" />
               </Node>
@@ -23,7 +21,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.OpenSesameV3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B43A691E-68C8-4E7D-9AA7-3306F96682A1" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.Droid PreferredExecutionTarget="Android.pixel_oreo_api_27" />
+  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
