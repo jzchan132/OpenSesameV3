@@ -1,16 +1,18 @@
-﻿<Properties StartupConfiguration="{68A368D0-235B-465B-B1CB-615DC86E5607}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OpenSesameV3/GridPage.cs">
+﻿<Properties StartupConfiguration="{CB9F9C28-9189-48A4-9704-9911349490E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages/Xamarin.Forms.4.1.0.618606/build/Xamarin.Forms.targets">
     <Files>
-      <File FileName="OpenSesameV3/OpenSesameV3.cs" Line="10" Column="42" />
-      <File FileName="OpenSesameV3/GridPage.cs" Line="45" Column="31" />
+      <File FileName="OpenSesameV3/OpenSesameV3.cs" Line="21" Column="6" />
+      <File FileName="OpenSesameV3/GridPage.cs" />
+      <File FileName="Droid/OpenSesame_Android.cs" Line="1" Column="1" />
+      <File FileName="packages/Xamarin.Forms.4.1.0.618606/build/Xamarin.Forms.targets" Line="107" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OpenSesameV3" expanded="True">
-            <Node name="OpenSesameV3" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="GridPage.cs" selected="True" />
+            <Node name="OpenSesameV3.Droid" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="packages.config" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,7 +22,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.OpenSesameV3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B43A691E-68C8-4E7D-9AA7-3306F96682A1" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.OpenSesameV3.Droid PreferredExecutionTarget="Android.pixel_oreo_api_27" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
