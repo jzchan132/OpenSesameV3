@@ -9,7 +9,12 @@ namespace OpenSesameV3.Droid.Services
 	[BroadcastReceiver]
 	public class NetworkStatusBroadcastReceiver : BroadcastReceiver
 	{
-		public event EventHandler ConnectionStatusChanged;
+        protected virtual void OnConnectionStatusChanged(EventArgs e)
+        {
+            ConnectionStatusChanged?.Invoke(this, e);
+        }
+
+        public event EventHandler ConnectionStatusChanged;
 
 		public override void OnReceive (Context context, Intent intent)
 		{

@@ -393,7 +393,8 @@ namespace OpenSesameV3.Droid.Services
 			if (Database.GetPropertyBoolValue("Vibrate"))
 			{
 				Vibrator vibrator = (Vibrator)GetSystemService(Context.VibratorService);
-				vibrator.Vibrate(duration);
+                vibrator.Vibrate(VibrationEffect.CreateOneShot(duration, VibrationEffect.DefaultAmplitude));
+                //vibrator.Vibrate(duration);
 			}
 		}
 
