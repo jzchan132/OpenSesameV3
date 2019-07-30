@@ -31,7 +31,7 @@ namespace OpenSesameV3.Droid
 			Log.Debug("SQLite_Android", "path = " + path);
 			{
 				Log.Debug("SQLite_Android", "Copy database from Resource to local folder: " + path);
-				var s = Forms.Context.Resources.OpenRawResource(Resource.Raw.OpenSesame);  // RESOURCE NAME ###
+				var s = Android.App.Application.Context.Resources.OpenRawResource(Resource.Raw.OpenSesame);  // RESOURCE NAME ###
 				FileStream writeStream = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Write);
 				ReadWriteStream(s, writeStream);
 			}

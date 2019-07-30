@@ -15,11 +15,11 @@ public class TransparentWebViewRenderer
 	}
 
 
-	public TransparentWebViewRenderer (android.content.Context p0)
+	public TransparentWebViewRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
-		super (p0);
+		super (p0, p1, p2);
 		if (getClass () == TransparentWebViewRenderer.class)
-			mono.android.TypeManager.Activate ("TransparentWebViewXF.Droid.TransparentWebViewRenderer, OpenSesameV3.Droid", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("TransparentWebViewXF.Droid.TransparentWebViewRenderer, OpenSesameV3.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, mscorlib", this, new java.lang.Object[] { p0, p1, p2 });
 	}
 
 
@@ -31,11 +31,11 @@ public class TransparentWebViewRenderer
 	}
 
 
-	public TransparentWebViewRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)
+	public TransparentWebViewRenderer (android.content.Context p0)
 	{
-		super (p0, p1, p2);
+		super (p0);
 		if (getClass () == TransparentWebViewRenderer.class)
-			mono.android.TypeManager.Activate ("TransparentWebViewXF.Droid.TransparentWebViewRenderer, OpenSesameV3.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, mscorlib", this, new java.lang.Object[] { p0, p1, p2 });
+			mono.android.TypeManager.Activate ("TransparentWebViewXF.Droid.TransparentWebViewRenderer, OpenSesameV3.Droid", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
 	}
 
 	private java.util.ArrayList refList;

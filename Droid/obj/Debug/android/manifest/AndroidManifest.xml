@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="org.cbcm.opensesamev3">
-  <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="15" />
+  <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="27" />
   <uses-permission android:name="android.permission.WAKE_LOCK" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.VIBRATE" />
@@ -24,6 +23,8 @@
     </receiver>
     <service android:name="md5e72bad741f9573ef9b4c0c87f2638d2e.OpenSesameService" />
     <receiver android:name="md5e72bad741f9573ef9b4c0c87f2638d2e.NetworkStatusBroadcastReceiver" />
+    <service android:name="md5dcb6eccdc824e0677ffae8ccdde42930.KeepAliveService" />
+    <receiver android:enabled="true" android:exported="false" android:name="md51558244f76c53b6aeda52c8a337f2c37.PowerSaveModeBroadcastReceiver" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="org.cbcm.opensesamev3.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
