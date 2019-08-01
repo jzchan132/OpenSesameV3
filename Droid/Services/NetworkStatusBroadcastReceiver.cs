@@ -9,9 +9,11 @@ namespace OpenSesameV3.Droid.Services
 	[BroadcastReceiver]
 	public class NetworkStatusBroadcastReceiver : BroadcastReceiver
 	{
-		public event EventHandler ConnectionStatusChanged;
+        #pragma warning disable 67
+        public event EventHandler ConnectionStatusChanged;
+        #pragma warning restore 67
 
-		public override void OnReceive (Context context, Intent intent)
+        public override void OnReceive (Context context, Intent intent)
 		{
 			MainActivity.Current.OpenSesameService.EventHandlers ();
 		}

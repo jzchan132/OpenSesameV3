@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{CB9F9C28-9189-48A4-9704-9911349490E1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Services/NetworkStatusBroadcastReceiver.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Services/OpenSesameService.cs">
     <Files>
       <File FileName="Droid/Properties/AndroidManifest.xml" />
-      <File FileName="Droid/Services/OpenSesameService.cs" Line="142" Column="14" />
-      <File FileName="Droid/Services/NetworkStatusBroadcastReceiver.cs" Line="12" Column="29" />
+      <File FileName="Droid/Services/OpenSesameService.cs" Line="63" Column="35" />
+      <File FileName="Droid/Services/NetworkStatusBroadcastReceiver.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OpenSesameV3" expanded="True">
+            <Node name="OpenSesameV3" expanded="True" />
             <Node name="OpenSesameV3.Droid" expanded="True">
+              <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True">
-                <Node name="NetworkStatusBroadcastReceiver.cs" selected="True" />
+                <Node name="OpenSesameService.cs" selected="True" />
               </Node>
             </Node>
+            <Node name="OpenSesameV3.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>

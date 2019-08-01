@@ -17,3 +17,4 @@
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/OpenSesameV3/obj/Release/XamlC.stamp
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/OpenSesameV3/obj/Release/OpenSesameV3.csproj.CopyComplete
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/OpenSesameV3/obj/Release/OpenSesameV3.dll
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/OpenSesameV3/obj/Release/OpenSesameV3.csprojAssemblyReference.cache

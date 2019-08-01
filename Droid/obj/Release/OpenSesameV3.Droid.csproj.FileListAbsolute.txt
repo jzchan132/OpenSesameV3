@@ -462,3 +462,6 @@
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Release/stamp/_GenerateJavaStubs.stamp
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Release/stamp/_GeneratePackageManagerJava.stamp
 /Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Release/stamp/_ResolveLibraryProjectImports.stamp
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/bin/Release/Xamarin.Android.Arch.Core.Runtime.dll
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Release/linksrc/Xamarin.Android.Arch.Core.Runtime.dll
+/Volumes/DATA/OpenSeasameV3/GitHub/OpenSesameV3/Droid/obj/Release/android/assets/Xamarin.Android.Arch.Core.Runtime.dll
